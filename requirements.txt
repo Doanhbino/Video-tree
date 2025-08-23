@@ -1,0 +1,15 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+python-dotenv==1.0.0
+numpy==1.24.3
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.30.2
+decord==0.6.0
+Pillow==9.5.0
+scikit-learn==1.2.2
+networkx==3.1
+langchain==0.0.200
+openai==0.27.8
+Jinja2==3.1.2
+python-multipart==0.0.6
